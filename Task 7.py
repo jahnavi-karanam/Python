@@ -131,7 +131,7 @@ class Person:
         else:
             print('You are old.')
     def yearPasses(self):
-        self.age+=1
+        self.age+=38
 t = int(input("Enter your number: "))
 for i in range(0, t):
     age = int(input("Enter your age: "))
